@@ -42,6 +42,8 @@
   <a href="https://nodejs.org"><img src="https://nodejs.org/static/logos/nodejsHex.svg" alt="Node.js" title="Node.js" height="48" /></a>
   <a href="https://flutter.dev"><img src="https://flutter.dev/assets/icon_flutter.817b4a56b047d0d36b338dd9ffd44dbd.svg" alt="Flutter" title="Flutter" height="48" /></a>
   <a href="https://gradle.com"><img src="https://gradle.com/assets/brand/gradle-build-tool/icons/icon-color.svg" alt="Gradle" title="Gradle" height="48"/></a>
+  <a href="https://docker.com/"><img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/docker-icon.svg" alt="Docker" title="Docker" height="48" /></a>
+  <a href="https://podman.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/podman.svg" alt="Podman" title="Podman" height="48" /></a>
   <br>
   <a href="https://biomejs.dev"><img src="https://cdn.jsdelivr.net/gh/biomejs/resources@main/svg/icon-light-transparent.svg" alt="Biome" title="Biome" height="48" /></a>
   <a href="https://vitejs.dev"><img src="https://cdn.jsdelivr.net/gh/vitejs/vite@main/docs/public/logo.svg" alt="Vite" title="Vite" height="48" /></a>
@@ -104,7 +106,9 @@
   <a href="https://godotengine.org"><img src="https://godotengine.org/assets/press/icon_color.svg" alt="Godot" title="Godot" height="48" /></a>
   <a href="https://blender.org"><img src="https://vectorlogo.zone/logos/blender/blender-icon.svg" alt="Blender" title="Blender" height="48" /></a>
   <a href="https://neovim.io"><img src="https://cdn.jsdelivr.net/gh/neovim/neovim.github.io@master/static/logos/neovim-mark.svg" alt="Neovim" title="Neovim" height="48" /></a>
-  <a href="https://gnu.org/software/bash"><img src="https://cdn.jsdelivr.net/gh/odb/official-bash-logo@master/assets/Logos/Icons/SVG/512x512.svg" alt="Bash" title="Bash" height="48" /></a>
+  <a href="https://gnu.org/software/bash"><img src="https://cdn.jsdelivr.net/gh/odb/official-bash-logo@master/assets/Logos/Icons/SVG/256x256.svg" alt="Bash" title="Bash" height="48" /></a>
+  <a href="https://zsh.org"><img src="https://zsh.org/favicon.svg" alt="Zsh" title="Zsh" height="48" /></a>
+  <a href="https://fishshell.com"><img src="https://github.com/user-attachments/assets/f2a595f6-dc38-4115-b2d1-5928feef7479" alt="Fish" title="Fish" height="48" /></a>
   <br>
   <a href="https://php.net"><img src="https://php.net/images/logos/new-php-logo.svg" alt="PHP" title="PHP" height="48" width="48" /></a>
   <a href="https://laravel.com"><img src="https://cdn.jsdelivr.net/gh/laravel/art@master/laravel-logo.svg" alt="Laravel" title="Laravel" height="48" /></a>
@@ -119,6 +123,7 @@
   <a href="https://angular.dev"><img src="https://cdn.svglogos.dev/logos/angular-icon.svg" alt="Angular" title="Angular" height="48" /></a>
   <a href="https://qwik.dev"><img src="https://cdn.jsdelivr.net/gh/QwikDev/qwik@main/packages/docs/public/logos/qwik-logo.svg" alt="Qwik" title="Qwik" height="48" /></a>
   <a href="https://svelte.dev"><img src="https://cdn.jsdelivr.net/gh/sveltejs/branding@master/svelte-logo.svg" alt="Svelte" title="Svelte" height="48" /></a>
+  <a href="https://astro.build"><img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="Astro" title="Astro" height="48" /></a>
   <br>
   <a href="https://mongodb.com"><img src="https://cdn.jsdelivr.net/gh/pheralb/svgl@main/static/library/mongodb-icon-dark.svg" alt="MongoDB" title="MongoDB" height="48" /></a>
   <a href="https://supabase.com"><img src="https://vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" title="Supabase" height="48" /></a>
